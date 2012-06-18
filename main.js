@@ -1,2 +1,3 @@
 alert('hello world');
-console.log('fucking fuck, bitch soraya');
+//tiene tremendo
+console.log('fucking fuck, bitch may shi');
