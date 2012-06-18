@@ -1,3 +1,3 @@
 alert('hello world');
-//tiene tremendo
+//tiene tremendo culoooo
 console.log('fucking fuck, bitch may shi');
